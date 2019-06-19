@@ -8,7 +8,7 @@
 </h1>
 
 > Curium is a fork of the [Carbon Design System](https://www.carbondesignsystem.com).
-> Curium is one of the most radioactive isolable elements. Therefor one should
+> Curium is one of the most radioactive isolable elements. As such one should
 > expect this fork to be a bit less stable than its source until further notice. I'd
 > not recommend using this fork for anything serious at this point.
 >
