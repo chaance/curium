@@ -8,19 +8,19 @@
     "develop": "start-storybook -p 3000 -c .storybook"
   },
   "dependencies": {
-    "@babel/core": "^7.1.5",
-    "@carbon/icon-helpers": "^0.0.1-alpha.20",
-    "@storybook/vue": "^4.0.4",
-    "babel-loader": "^8.0.4",
+    "@babel/core": "7.5.5",
+    "@carbon/icon-helpers": "^10.4.0",
+    "@storybook/vue": "^5.1.11",
+    "babel-loader": "8.0.6",
     "babel-preset-vue": "^2.0.2",
-    "css-loader": "^1.0.1",
+    "css-loader": "3.2.0",
     "vue": "^2.5.17",
     "vue-loader": "^15.4.2",
     "vue-template-compiler": "^2.5.17",
-    "webpack": "^4.25.1"
+    "webpack": "4.39.3"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^4.0.9",
-    "@storybook/addon-options": "^4.0.8"
+    "@storybook/addon-actions": "^5.1.11",
+    "@storybook/addon-options": "^5.1.11"
   }
 }
