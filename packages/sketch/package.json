@@ -24,18 +24,18 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
-    "@carbon/colors": "10.2.0",
-    "@carbon/icon-helpers": "10.2.0",
-    "@carbon/icons": "10.3.0",
-    "@carbon/themes": "10.3.0",
-    "@carbon/type": "10.2.0",
+    "@carbon/colors": "10.4.0",
+    "@carbon/icon-helpers": "^10.4.0",
+    "@carbon/icons": "10.5.0",
+    "@carbon/themes": "10.5.0",
+    "@carbon/type": "10.4.1",
     "@skpm/builder": "^0.7.0",
     "color-string": "^1.5.3",
     "skpm": "^1.2.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
-    "rimraf": "^2.6.3"
+    "rimraf": "^3.0.0"
   },
   "skpm": {
     "name": "Carbon Elements",
