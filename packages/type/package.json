@@ -32,12 +32,12 @@
     "clean": "rimraf css es lib umd scss/_inlined scss/vendor"
   },
   "dependencies": {
-    "@carbon/import-once": "10.2.0",
-    "@carbon/layout": "10.2.0"
+    "@carbon/import-once": "10.3.0",
+    "@carbon/layout": "10.4.0"
   },
   "devDependencies": {
-    "@carbon/bundler": "10.2.0",
-    "rimraf": "^2.6.2"
+    "@carbon/bundler": "10.4.0",
+    "rimraf": "^3.0.0"
   },
   "eyeglass": {
     "exports": false,
