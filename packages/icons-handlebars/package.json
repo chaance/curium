@@ -22,8 +22,8 @@
     "handlebars": "^4.0.12"
   },
   "dependencies": {
-    "@carbon/icon-helpers": "10.2.0",
-    "@carbon/icons": "10.3.0"
+    "@carbon/icon-helpers": "^10.4.0",
+    "@carbon/icons": "10.5.0"
   },
   "devDependencies": {
     "handlebars": "^4.0.12"
