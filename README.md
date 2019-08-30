@@ -37,6 +37,8 @@
 
 ## Getting started
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chancestrickland/curium.svg)](https://greenkeeper.io/)
+
 If you're just getting started, check out
 [`carbon-components`](./packages/components). If you're looking for React
 components, take a look at [`carbon-components-react`](./packages/react).
